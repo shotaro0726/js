@@ -35,3 +35,24 @@ console.log(youtuber.list.kichigai());
 console.log(youtuber.list.bushiness());
 console.log(document.getElementById());
 
+const el = document.getElementById()
+const el2 = document.createElement()
+const body = document.body()
+
+el.innerHTML();
+el2.ATTRIBUTE_NODE();
+console.log(body);
+
+const num = 100;
+num = 10;
+
+let num2 = 50;
+let nm = num;
+
+
+const obj = {
+    foo: 123,
+};
+
+obj.foo = 456;
+
